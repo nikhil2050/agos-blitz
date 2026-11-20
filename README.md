@@ -15,7 +15,18 @@ The core is portable to other agents.
 4. Choose `profiles/COMPREHENSIVE.md` or `profiles/LEAN.md`.
 5. Choose relevant modules from `project-types/` and skills from `skills/`.
 6. Ask the agent: "Read the framework instructions and PROJECT_BRIEF.md. Start Phase 0. Guide me through discovery one question at a time. Do not code until the relevant approvals."
+   - The agent asks you questions; you answer. No code is written yet.
 7. Follow `workflows/PRODUCT_LIFECYCLE.md` and approve each gate.
+   - At each gate, review the agent's output and explicitly approve before it moves on. You control direction; the agent drafts, you sign off.
+
+## Large projects: MVP then phase-wise iteration
+
+- Lock MVP scope in Phase 3 (Product definition): define what is in and explicitly out (non-goals), actors, journeys, priorities, acceptance criteria. Gate: you approve scope before code.
+- Plan delivery in Phase 6: break work into milestones/tasks with dependencies. Gate: you approve the implementation plan.
+- Build incrementally in Phase 7, milestone by milestone. Gate: review milestones and scope changes — de-scope if needed to protect MVP.
+- Release readiness in Phase 8: QA, security, accessibility, performance, rollback. Gate: you authorize release.
+- Launch/learning in Phase 9: positioning, onboarding, acquisition, support, analytics, iteration.
+- You may skip/combine phases explicitly (document the choice), but never skip security, privacy, or regulatory checks.
 
 ## Principles
 - Business before code. 
