@@ -1,0 +1,1 @@
+Portable specialist playbooks. Load only those relevant: product-discovery, business-strategy, market-research, customer-validation, product-management, ux-ui-accessibility, software-architecture, engineering-quality, security-privacy, qa-testing, launch-growth and documentation-context.

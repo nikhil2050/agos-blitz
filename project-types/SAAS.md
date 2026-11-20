@@ -1,0 +1,1 @@
+Explore B2B/B2C, tenant model, account lifecycle, onboarding, plans, billing, trials, entitlements, usage limits, tenant isolation, SSO/admin/audit needs, support, churn, retention, export/deletion and integrations. Do not assume complex multi-tenancy or billing is needed for MVP.

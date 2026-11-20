@@ -1,0 +1,2 @@
+# UX/UI
+Start with user goals and workflows. Define information architecture, navigation, screen inventory, content hierarchy, interactions, wireframe descriptions, responsive behaviour, visual direction, tokens/components, accessibility, trust/privacy moments and all relevant loading/empty/error/success/destructive states. Ask about references when material. Do not copy a reference product blindly. Obtain approval of experience direction before large UI implementation.

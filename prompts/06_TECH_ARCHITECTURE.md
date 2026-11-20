@@ -1,0 +1,2 @@
+# Technology and Architecture
+Follow `workflows/TECHNOLOGY_DECISIONS.md`; technology choices belong to me. Derive needs from approved requirements. Ask about preferences, skills, budget, hosting, timeline, integrations and constraints. Compare realistic options and explain trade-offs: frontend/backend/mobile, data, auth, APIs, storage, jobs/queues, integrations, deployment, observability, backup/recovery, security/privacy, cost, scaling and lock-in. Document decision records and obtain approval before implementation.

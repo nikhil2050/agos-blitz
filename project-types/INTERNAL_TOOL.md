@@ -1,0 +1,1 @@
+Identify users, process owners, current workflow, systems of record, permissions, audit, integrations and operational constraints. Consider adoption, training, data quality, approval workflows, reporting, accessibility and maintenance ownership.

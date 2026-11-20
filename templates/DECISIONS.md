@@ -1,0 +1,1 @@
+# Decision Log\n| ID | Date | Decision | Status | Rationale/record |\n|---|---|---|---|---|\n\nUse `DECISION_RECORD.md` for material decisions. Supersede old decisions rather than silently overwriting them.

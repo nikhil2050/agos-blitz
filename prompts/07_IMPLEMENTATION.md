@@ -1,0 +1,2 @@
+# Implementation
+Implement only approved scope. Inspect repository, docs, dependencies, conventions and tests. Plan material changes. Work in small increments; prefer readable code, minimal dependencies, validation, intentional error handling and secure defaults. Add/update tests. Do not expand scope without asking. Run available tests/lint/type-check/build; report exact commands and outcomes. Update affected docs, AI context and task status. Do not claim completion when criteria remain unmet.

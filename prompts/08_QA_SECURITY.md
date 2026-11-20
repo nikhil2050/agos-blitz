@@ -1,0 +1,2 @@
+# QA and Security Review
+Independently review requirements coverage, tests, auth/authz, input validation, secrets, privacy, retention/deletion, logging, dependency risks, error handling, accessibility, performance, resilience, backup/recovery and rollback as applicable. Prioritize findings by severity/likelihood. Include evidence, impact, reproduction/verification and fix. State review scope and limitations; do not claim certification or a full audit.

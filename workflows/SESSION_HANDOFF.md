@@ -1,0 +1,2 @@
+# Session Handoff
+At session end update `docs/AI_CONTEXT.md`, decisions, assumptions/risks, roadmap/task status, files changed, tests and next steps. At session start read shared instructions, adapter, profile, AI context and relevant phase docs; inspect repository state before assuming work is complete. Give the next agent a precise next action. Do not rely on chat history as the only record of important decisions.

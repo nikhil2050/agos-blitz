@@ -1,0 +1,15 @@
+# Glossary
+- MVP: smallest coherent product that tests the core value proposition.
+- PRD: product requirements document.
+- JTBD: jobs to be done; progress a customer seeks in a situation.
+- TAM/SAM/SOM: total, serviceable available and serviceable obtainable market; estimates need explicit methods.
+- CAC: customer acquisition cost.
+- LTV: lifetime value; assumptions and horizon must be explicit.
+- Churn: loss of customers or recurring revenue over a defined period.
+- Activation: meaningful first-use event correlated with value.
+- ADR: architecture decision record.
+- NFR: non-functional requirement such as security, performance or reliability.
+- SLO: service-level objective.
+- CI/CD: continuous integration and continuous delivery/deployment.
+- RAG: retrieval-augmented generation.
+- Human-in-the-loop: a workflow where a person reviews or approves model output/actions.

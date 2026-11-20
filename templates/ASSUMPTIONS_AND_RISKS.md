@@ -1,0 +1,1 @@
+# Assumptions and Risks\n| ID | Type | Statement | Evidence/confidence | Impact | Likelihood | Owner | Validation/mitigation | Status |\n|---|---|---|---|---|---|---|---|---|\nDo not convert an assumption into a fact merely because it has been repeated.

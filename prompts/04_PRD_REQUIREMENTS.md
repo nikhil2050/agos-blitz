@@ -1,0 +1,2 @@
+# PRD and Requirements
+Translate approved business direction into goals, non-goals, actors, journeys, MVP scope, explicit exclusions, functional and non-functional requirements, roles/permissions, business rules, integrations, notifications, error/empty/loading/success states, edge cases, abuse cases, analytics and success metrics. Give every material requirement an ID, priority, rationale, dependencies, security/privacy implications and testable acceptance criteria. Flag ambiguity; do not silently resolve business-rule conflicts. Ask approval before baselining.

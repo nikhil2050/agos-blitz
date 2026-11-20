@@ -1,0 +1,1 @@
+Define consumers, use cases, API boundaries, resource model, auth, versioning, rate limits, quotas, idempotency, pagination, errors, webhooks, SDKs, docs, sandbox, observability and deprecation policy. Consider abuse and tenant isolation.

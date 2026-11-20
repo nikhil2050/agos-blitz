@@ -1,0 +1,2 @@
+# Claude Code Adapter
+Read root `AGENTS.md`, this adapter, the brief, selected profile and current phase prompt. Treat `skills/` as portable specialist playbooks and load only relevant ones. Inspect before editing. Plan multi-file or architectural work. Respect phase gates; brainstorming is not permission to implement. Cite research and report actual tool/test results. Update context and documentation. Keep founder control of product and technology decisions.

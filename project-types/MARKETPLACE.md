@@ -1,0 +1,1 @@
+Identify both sides, incentives, trust, supply/demand cold start, liquidity, matching, discovery, ranking, messaging, transactions, payments, commissions, refunds, disputes, reviews, fraud, moderation, identity, safety and off-platform leakage. Clarify fulfillment ownership and launch geography; network effects are not automatic.

@@ -1,0 +1,1 @@
+- [ ] Deliverables present and linked\n- [ ] Match selected depth profile\n- [ ] Facts, assumptions, hypotheses and estimates distinguished\n- [ ] Risks/open questions visible\n- [ ] Requirements testable where applicable\n- [ ] Decisions recorded\n- [ ] No unapproved product/technology decisions\n- [ ] Founder approval explicitly requested and recorded

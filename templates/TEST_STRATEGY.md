@@ -1,0 +1,1 @@
+# Test Strategy\n## Quality goals\n## Critical journeys\n## Test levels: unit, integration, contract, E2E, exploratory, accessibility, performance, security, recovery\n## Test data/environments\n## Entry/exit criteria\n## Risks and untested areas\n## Commands and results

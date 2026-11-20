@@ -1,0 +1,1 @@
+# Requirement: [REQ-ID] — [Title]\n- Type / Priority / Status / Related goal / Actor:\n## Description\nAs a [actor], I want [capability], so that [outcome].\n## Rationale\n## Acceptance criteria (Given/When/Then)\n## Edge cases/failure states\n## Dependencies\n## Security/privacy considerations\n## Verification method

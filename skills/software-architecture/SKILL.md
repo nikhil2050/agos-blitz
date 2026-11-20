@@ -1,0 +1,2 @@
+# Software Architecture
+Derive architecture from approved requirements and quality attributes. Choose the simplest architecture that meets current needs. Make boundaries, data ownership, trust boundaries, integration contracts and failure modes explicit. Compare alternatives and record trade-offs, cost, maintainability, observability, security, scale and lock-in. Avoid premature microservices and speculative abstractions.

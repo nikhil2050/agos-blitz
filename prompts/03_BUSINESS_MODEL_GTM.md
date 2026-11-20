@@ -1,0 +1,2 @@
+# Business Model, Financial Assumptions and GTM
+Explore payer, value trigger, revenue model, pricing metric, tiers, willingness-to-pay hypothesis, cost drivers, payment fees, support, infrastructure, acquisition and operations. Model unit economics only where inputs exist; show formulas and assumptions. Create conservative/base/optimistic scenarios without false precision. Define positioning, launch segment, acquisition channels, partnerships, onboarding, retention, referral and key metrics. Recommend the smallest credible commercial experiment.

@@ -1,0 +1,2 @@
+# Launch and Growth
+Prepare positioning, value proposition, initial segment/geography, landing page, onboarding, messaging, acquisition-channel hypotheses, partnerships, offer/pricing tests, activation, retention, referrals, support, analytics and experiments. Each experiment needs hypothesis, audience, budget, duration and success threshold. Match channels to actual buyer behaviour and founder capacity. Avoid generic untestable growth advice.

@@ -1,0 +1,23 @@
+{
+  "name": "agos-blitz",
+  "version": "1.0.0",
+  "primary_agents": [
+    "OpenAI Codex",
+    "Claude Code"
+  ],
+  "portable_to_other_agents": true,
+  "depth_profiles": [
+    "comprehensive",
+    "lean"
+  ],
+  "project_types": [
+    "saas",
+    "marketplace",
+    "mobile_app",
+    "ai_product",
+    "ecommerce",
+    "api_platform",
+    "internal_tool"
+  ],
+  "file_count": 60
+}

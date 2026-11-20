@@ -1,0 +1,2 @@
+# Market and Competitor Analysis
+Confirm geography, segment and use case. Identify direct competitors, indirect alternatives and non-software substitutes. Compare positioning, target users, workflows, dated pricing, business models, strengths, weaknesses and gaps using sources. Assess entry barriers, distribution, switching costs, regulation and network effects. Estimate market size only with defensible inputs and transparent methods. Deliver strategic implications, evidence gaps and confidence levels. Never fabricate private-company metrics.

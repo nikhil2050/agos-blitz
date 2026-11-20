@@ -1,0 +1,1 @@
+Create project-specific documentation in this folder as the lifecycle progresses. Copy `templates/PROJECT_DOCUMENT_INDEX.md` here as `DOCUMENT_INDEX.md`. Only create applicable documents; mark others N/A. Do not leave fabricated placeholder claims in approved docs.

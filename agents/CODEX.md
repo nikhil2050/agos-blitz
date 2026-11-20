@@ -1,0 +1,2 @@
+# OpenAI Codex Adapter
+Read root `AGENTS.md`, the brief, selected profile and current phase prompt. Use relevant skills only. Inspect repository state before edits. Explain plans for material changes. Do not interpret exploration as implementation approval. Use tools for research and tests when available; cite research sources. Report actual command results and limitations. Keep docs and `docs/AI_CONTEXT.md` synchronized. Preserve existing conventions unless an approved reason exists to change them.

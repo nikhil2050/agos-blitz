@@ -1,0 +1,1 @@
+Clarify iOS/Android, native vs cross-platform, device capabilities, offline use, push, deep links, permissions, accessibility, app-store policies, analytics, crash reporting and release cycles. Consider privacy disclosures, secure local storage and variable networks.

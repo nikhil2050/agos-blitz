@@ -1,0 +1,2 @@
+# Generic Coding Agent Adapter
+Provide root `AGENTS.md`, this adapter, the selected profile and current phase prompt to any coding assistant. Attach only relevant skills and project-type modules. Ask the agent to confirm its current phase, ask questions before consequential assumptions, obtain approval at gates, update docs/context and report evidence/tests honestly. If persistent instructions are unavailable, provide these files at each session.

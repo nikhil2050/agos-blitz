@@ -1,0 +1,2 @@
+# Customer Validation
+Design low-cost tests for critical assumptions: interviews, prototype tests, landing pages, concierge pilots, pre-orders, paid pilots or usability sessions. Avoid leading questions; ask about actual behaviour, spending and workarounds. Define sample criteria, script, evidence capture and success threshold. Never invent participants, quotes or results. Distinguish interest, intent, commitment and payment.

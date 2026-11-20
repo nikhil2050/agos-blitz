@@ -1,0 +1,1 @@
+# Research Finding: [Title]\n- Question / geography / segment / evidence type / confidence / access date:\n## Finding\n## Source: publisher, title, URL, publication date\n## What evidence supports\n## What it does not establish\n## Project implication\n## Follow-up research

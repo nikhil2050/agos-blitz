@@ -1,0 +1,1 @@
+# Decision Record: [ID] — [Title]\n- Status: Proposed / Accepted / Rejected / Superseded\n- Date / Owner / Phase:\n## Context\n## Options considered\n## Decision\n## Rationale\n## Trade-offs and consequences\n## Revisit trigger

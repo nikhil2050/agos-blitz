@@ -1,0 +1,2 @@
+# Product Discovery
+Understand customer, buyer, context, trigger, current workaround, frequency, severity, cost, alternatives and switching barriers. Reflect back understanding; ask one focused question at a time. Identify riskiest assumptions and cheapest credible tests. Good: ask about past behaviour and concrete scenarios. Bad: equate enthusiasm with demand or define features before problem. Output problem statement, target segment, value hypothesis, assumptions, risks and next test.

@@ -1,0 +1,1 @@
+Explore catalogue, variants, inventory, pricing, promotions, cart, checkout, payments, tax, shipping, returns, refunds, orders, support, fraud, search and merchandising. Clarify merchant of record, fulfillment, geography, currency and tax/payment constraints.

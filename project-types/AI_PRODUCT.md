@@ -1,0 +1,1 @@
+Define AI task, user value, non-AI baseline, provider/model options, latency, cost, quality thresholds and fallback. Consider prompt/version management, retrieval/source attribution, eval datasets, hallucination, human review, tool permissions, privacy, prompt injection, abuse and observability. Define measurable evaluations.
